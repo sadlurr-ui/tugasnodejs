@@ -36,6 +36,7 @@ export default function CVPage() {
                     href="https://linkedin.com/in/michelle-123"
                     className="text-blue-600 underline"
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     linkedin.com/in/michelle-123
                   </a>
